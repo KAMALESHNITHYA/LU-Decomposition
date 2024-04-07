@@ -40,7 +40,11 @@ print(C)
 ```
 
 ## Output:
-![lu decomposition]()
+(i) To find the L and U matrix
+![Screenshot 2024-04-07 113333](https://github.com/KAMALESHNITHYA/LU-Decomposition/assets/145743119/a3773203-5b79-4992-860a-4f361bf29282)
+
+(ii) To find the LU Decomposition of a matrix
+![Screenshot 2024-04-07 113344](https://github.com/KAMALESHNITHYA/LU-Decomposition/assets/145743119/dd97eb8b-1624-48fb-8129-ca2b1d19e2db)
 
 
 ## Result:
