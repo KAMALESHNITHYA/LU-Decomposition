@@ -28,7 +28,7 @@ print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-Program to solve a matrix using LU decomposition.
+Program to find the LU Decomposition of a matrix
 Developed by: KAMALESH R
 RegisterNumber: 212223230094
 import numpy as np
